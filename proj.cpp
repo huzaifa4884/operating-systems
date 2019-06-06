@@ -1,3 +1,5 @@
+//round robin is simple 
+//scheduling using ques
 #include <iostream>
 
 using namespace std;
